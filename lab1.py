@@ -6,7 +6,7 @@ print("Armaan Janda")
 print("The area of the rectangle would be 70.")  # <- finish the print statement
 
 # Fix the line below. Interpreters scan your entire file ahead-of-time to check for errors, unlike compilers.
-print("True")
+print("False")
 
 # Add one more color to the end of the list, after blue. (Don't forget the comma , and quotes "")
 print(["red", "orange", "blue", "green"])
